@@ -17,4 +17,4 @@ $ python3 server.py
 Then visit `localhost:5000`
 
 ### Heroku
-The [Procfile]() specifies what to run when [pushed to Heroku]()
+The [Procfile](Procfile) specifies what to run when [pushed to Heroku](https://devcenter.heroku.com/articles/git)
